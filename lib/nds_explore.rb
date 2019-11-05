@@ -10,5 +10,8 @@ def pretty_print_nds(nds)
 end
 
 def print_first_directors_movie_titles
+  row_index = 0 
+  while row_index < 
+  
   puts directors_database()  
 end
